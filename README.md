@@ -60,7 +60,7 @@ thought process when working on the problem. Don't be too concerned with squeezi
 
 ### What you need to submit
 
-You will submit:
+You will submit (by executing a pull request on this project from your fork):
 * all code / notebooks etc. that you used in exploring the data and building your model. 
 * a file containing the predictions from your model when executed on the `sampled_test` file.
 
